@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_098_goods_sort_master/core/arcade.dart';
-import 'package:game_098_goods_sort_master/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_098_goods_sort_master/game/casual_engine.dart';
 import 'package:game_098_goods_sort_master/game/rules.dart';
 
